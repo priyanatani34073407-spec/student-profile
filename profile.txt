@@ -1,0 +1,6 @@
+Name: Natani Guna Sri Durgapriya
+College: Chalapathi Institute Of Technology
+Branch: CSE-(Artifical Intelligence)
+Skills: PYTHON
+        AWS Cloud (EC2, S3, IAM)
+        Artificial Intelligence Basics
