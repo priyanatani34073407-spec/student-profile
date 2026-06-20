@@ -4,3 +4,4 @@ Branch: CSE-(Artifical Intelligence)
 Skills: PYTHON
         AWS Cloud (EC2, S3, IAM)
         Artificial Intelligence Basics
+        Git
